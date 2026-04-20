@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Next To You - Hsafh Solo",
+    "bpm": 70,
+    "bitsPerPage": 16,
+    "pitchLevel": 0,
+    "isComposed": true,
+    "songNotes": [
+      {"time": 0, "key": "1Key4"}, {"time": 850, "key": "1Key8"}, {"time": 1700, "key": "1Key11"}, {"time": 2550, "key": "1Key8"},
+      {"time": 3400, "key": "1Key4"}, {"time": 4250, "key": "1Key8"}, {"time": 5100, "key": "1Key11"}, {"time": 5950, "key": "1Key8"},
+      {"time": 6800, "key": "1Key2"}, {"time": 7650, "key": "1Key6"}, {"time": 8500, "key": "1Key9"}, {"time": 9350, "key": "1Key6"},
+      {"time": 10200, "key": "1Key2"}, {"time": 11050, "key": "1Key6"}, {"time": 11900, "key": "1Key9"}, {"time": 12750, "key": "1Key6"},
+      {"time": 13600, "key": "1Key0"}, {"time": 14450, "key": "1Key4"}, {"time": 15300, "key": "1Key7"}, {"time": 16150, "key": "1Key4"},
+      {"time": 17000, "key": "1Key0"}, {"time": 17850, "key": "1Key4"}, {"time": 18700, "key": "1Key7"}, {"time": 19550, "key": "1Key4"},
+      {"time": 20400, "key": "1Key2"}, {"time": 21250, "key": "1Key6"}, {"time": 22100, "key": "1Key9"}, {"time": 22950, "key": "1Key6"},
+      {"time": 23800, "key": "1Key2"}, {"time": 24650, "key": "1Key6"}, {"time": 25500, "key": "1Key9"}, {"time": 26350, "key": "1Key6"},
+      {"time": 27200, "key": "1Key4"}, {"time": 28050, "key": "1Key8"}, {"time": 28900, "key": "1Key11"}, {"time": 29750, "key": "1Key8"},
+      {"time": 30600, "key": "1Key4"}, {"time": 31450, "key": "1Key8"}, {"time": 32300, "key": "1Key11"}, {"time": 33150, "key": "1Key8"}
+    ]
+  }
+]
